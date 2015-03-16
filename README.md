@@ -1,0 +1,1 @@
+# freedesktop-thumbnailer-gdbus-test
